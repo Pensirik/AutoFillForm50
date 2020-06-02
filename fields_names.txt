@@ -1,0 +1,440 @@
+---
+FieldType: Text
+FieldName: pay1.0
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: pay1.1
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: pay1.2
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: pay1.3
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: pay1.4
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: pay1.5
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: pay1.6
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: pay1.7
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: pay1.8
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: pay1.9
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: pay1.10
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: pay1.11
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: pay1.12
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: pay1.14
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: pay1.13.0
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: pay1.13.1
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: tax1.0
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: tax1.1
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: tax1.2
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: tax1.3
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: tax1.4
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: tax1.5
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: tax1.6
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: tax1.7
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: tax1.8
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: tax1.9
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: tax1.10
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: tax1.11
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: tax1.12
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: tax1.14
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: tax1.13.0
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: tax1.13.1
+FieldFlags: 4194304
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: Text1.0.0
+FieldFlags: 12582912
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: Text1.0.1
+FieldFlags: 12582912
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: Text1.1.0
+FieldFlags: 12582912
+FieldJustification: Right
+---
+FieldType: 
+FieldName: Text1
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: clear data
+FieldNameAlt: &#3621;&#3657;&#3634;&#3591;&#3586;&#3657;&#3629;&#3617;&#3641;&#3621;
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: book_no
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: run_no
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: id1
+FieldFlags: 29360128
+FieldValue: 
+FieldJustification: Left
+FieldMaxLength: 17
+---
+FieldType: Text
+FieldName: name1
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: tin1
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: add1
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: id1_2
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 17
+---
+FieldType: Text
+FieldName: name2
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: tin1_2
+FieldFlags: 29360128
+FieldJustification: Left
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: add2
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: item
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: chk1
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: chk2
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: chk3
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: chk4
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: chk5
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: chk6
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: chk7
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: date1
+FieldFlags: 4194304
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: date2
+FieldFlags: 4194304
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: date3
+FieldFlags: 4194304
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: date4
+FieldFlags: 4194304
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: date5
+FieldFlags: 4194304
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: date6
+FieldFlags: 4194304
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: date7
+FieldFlags: 4194304
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: rate1
+FieldFlags: 4194304
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: date8
+FieldFlags: 4194304
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: date9
+FieldFlags: 4194304
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: date10
+FieldFlags: 4194304
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: date11
+FieldFlags: 4194304
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: spec1
+FieldFlags: 4194304
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: date12
+FieldFlags: 4194304
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: date13
+FieldFlags: 4194304
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: spec3
+FieldFlags: 4194304
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: total
+FieldFlags: 4194304
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: chk8
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: chk9
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: chk10
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: chk11
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: spec4
+FieldFlags: 4194304
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: date_pay
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: month_pay
+FieldFlags: 4194304
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: year_pay
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: date14.0
+FieldFlags: 4194304
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: date14.1
+FieldFlags: 4194304
+FieldJustification: Center
