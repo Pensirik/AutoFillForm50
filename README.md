@@ -1,2 +1,5 @@
 # form50
-Run  composer install
+
+Run คำสั่ง
+- composer install
+- composer dump-autoload
