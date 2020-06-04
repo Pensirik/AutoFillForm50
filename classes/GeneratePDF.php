@@ -14,7 +14,7 @@ class GeneratePDF
     {
         try {
             $filename = 'fillform.pdf';
-            $filename = 'pdf_' .date("Ymd-H:i:s"). '.pdf';
+            $filename = 'pdf_' .date("Ymd").'_'. rand(2000, 1200000). '.pdf';
 
 
             $pdf = new Pdf('./form.pdf');
