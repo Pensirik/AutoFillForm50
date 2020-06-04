@@ -14,13 +14,14 @@ class GeneratePDF
     {
         try {
             $filename = 'fillform.pdf';
+            $filename = 'pdf_' .date("Ymd-H:i:s"). '.pdf';
+
 
             $pdf = new Pdf('./form.pdf');
             $pdf->fillForm($data)
             ->needAppearances()
                         //->flatten()
-                        ->saveAs('./completed/' . $filename);
-            //->send( $filename . '.pdf');
+            ->saveAs('./completed/' . $filename);
 
             return $filename;
         } catch (Exception $e) {
